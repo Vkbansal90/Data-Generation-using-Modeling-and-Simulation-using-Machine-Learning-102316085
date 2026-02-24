@@ -180,6 +180,4 @@ TOPSIS ranks models based on distance from:
 
 **Random Forest** achieved the highest TOPSIS score (0.6925), indicating the best balance between accuracy, error minimization, and computational efficiency.
 
----
 
-## 📁 Project Structure
